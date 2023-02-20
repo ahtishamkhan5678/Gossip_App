@@ -6,7 +6,7 @@
 ---
 </div>
 <p>
-Gossip is a free cross-platform messaging Web_App It lets users of iPhone and Android smartphones and Mac and Windows PC call and exchange text, photo, audio and video messages with others across the globe for free, regardless of the recipient's device.
+Gossip is a Clone of WhatApp web application designed to replicate the functionality of the popular messaging application, Gossip. It allows users to communicate with each other through instant messaging, file sharing, etc.
 </p>
 
 ---
