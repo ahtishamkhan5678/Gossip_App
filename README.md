@@ -1,7 +1,8 @@
-<div align="center">
+<div align="center" width=100%>
 
 
-![logoG](https://user-images.githubusercontent.com/100846744/220145149-0e103dc6-7f14-4080-ba6a-9be3681e940c.png)
+<img src="https://i.pinimg.com/736x/f5/b6/37/f5b637c904d0598d07b0ff10c486f5a3--logo-design-logos.jpg" width="100%"  />
+
 
 ---
 </div>
